@@ -1,0 +1,5 @@
+﻿  task13.cpp
+C:\Users\Lenovo\source\repos\task13\task13\math_3d.h(25,31): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Lenovo\source\repos\task13\task13\task13.cpp(108,49): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Lenovo\source\repos\task13\task13\task13.cpp(141,36): warning C4267: =: преобразование из "size_t" в "GLint"; возможна потеря данных
+  task13.vcxproj -> C:\Users\Lenovo\source\repos\task13\x64\Debug\task13.exe
