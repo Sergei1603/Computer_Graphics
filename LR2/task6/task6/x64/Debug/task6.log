@@ -1,0 +1,3 @@
+﻿  task6.cpp
+C:\Users\Lenovo\source\repos\task6\task6\task6.cpp(94,34): warning C4267: =: преобразование из "size_t" в "GLint"; возможна потеря данных
+  task6.vcxproj -> C:\Users\Lenovo\source\repos\task6\x64\Debug\task6.exe
