@@ -1,0 +1,4 @@
+﻿  task18.cpp
+C:\Users\Lenovo\source\repos\task18\task18\math_3d.h(25,33): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Lenovo\source\repos\task18\task18\task18.cpp(201,1): warning C4305: аргумент: усечение из "double" в "float"
+  task18.vcxproj -> C:\Users\Lenovo\source\repos\task18\x64\Debug\task18.exe
